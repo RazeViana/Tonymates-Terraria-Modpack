@@ -1,3 +1,4 @@
 displayName = Tonymate's Random mod collection
 author = Tonymate
 version = 0.2
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
